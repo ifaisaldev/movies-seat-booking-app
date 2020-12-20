@@ -59,5 +59,5 @@ container.addEventListener('click', e => {
   }
 });
 
-// inital count an total set
+// inital count on total set
 updateSelectedCount();
